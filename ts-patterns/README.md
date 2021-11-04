@@ -1,0 +1,1 @@
+## Example of Design Patterns in TypeScript

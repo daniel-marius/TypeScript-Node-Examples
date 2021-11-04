@@ -1,0 +1,1 @@
+Example of MySQL Object Relational Mapping in TypeScript
